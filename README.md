@@ -51,8 +51,9 @@
 <hr />
 
 <h3>🔥 My Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovansimonovic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=1" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jovansimonovic&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&locale=en&theme=github_dark&hide_border=true&order=2" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovansimonovic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=1" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jovansimonovic&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&locale=en&theme=github_dark&hide_border=true&order=2" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jovansimonovic&locale=en&mode=daily&theme=github_dark&hide_border=true&order=3" height="250" alt="streak graph"  />
 </div>
