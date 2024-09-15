@@ -10,6 +10,7 @@
 
 * 📚 I'm currently studying Software and Data Engineering at Singidunum University
 * 🌱 I'm currently exploring and learning new technologies, primarily focusing on MERN Stack
+* 🏗️ I'm currently working on a project named EstateParadise. You can check it out [here](https://github.com/jovansimonovic/estate-paradise)
 * 💚 Other interests: Fitness, Cars, Music, Computers, Gaming
 
 <hr />
@@ -18,9 +19,11 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.simonovic02@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.simonovic02@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jocaxd)
+  [![Daily.Dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/joca)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-simonović-532498267)
+  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17717809/jovan-simonovi%c4%87?tab=profile)
 
 </div>
 
