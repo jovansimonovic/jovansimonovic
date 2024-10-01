@@ -9,7 +9,7 @@
 <h3>🧑 About me</h3>
 
 * 📚 I'm currently studying Software and Data Engineering at Singidunum University
-* 🌱 I'm currently exploring and learning new technologies, primarily focusing on MERN Stack
+* 🌱 I'm currently exploring and learning new technologies, primarily focusing on MEARN Stack
 * 🏗️ I'm currently working on a project named EstateParadise. You can check it out [here](https://github.com/jovansimonovic/estate-paradise)
 * 💚 Other interests: Fitness, Cars, Music, Computers, Gaming
 
