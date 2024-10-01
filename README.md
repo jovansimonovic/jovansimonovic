@@ -1,12 +1,11 @@
 ![Banner Image](https://github.com/jovansimonovic/jovansimonovic/blob/main/header.png)
 
-<h3 align="justify">
-  A dedicated Web Developer, passionate about continuous learning and innovation. Excited to contribute my expertise and enthusiasm to your team and collaborate on creating outstanding projects.
-</h3>
+<h3 align="center">
+  A dedicated Web Developer, passionate about continuous learning and innovation.
 
 <hr />
 
-<h3>🧑 About me</h3>
+<h3>🧑 About Me</h3>
 
 * 📚 I'm currently studying Software and Data Engineering at Singidunum University
 * 🌱 I'm currently exploring and learning new technologies, primarily focusing on MEARN Stack
@@ -15,7 +14,7 @@
 
 <hr />
 
-<h3>🤝 Connect with me</h3>
+<h3>🤝 Connect With Me</h3>
 
 <div align="center">
   
