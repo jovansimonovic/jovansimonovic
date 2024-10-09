@@ -36,16 +36,29 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
+</div>
+
+<h3>🔭 Technologies I'm Planning to Explore</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".net logo" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" />
 </div>
 
 <hr />
