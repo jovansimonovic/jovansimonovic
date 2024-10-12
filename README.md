@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/jovansimonovic/jovansimonovic/blob/main/header.png)
 
 <h3 align="center">
-  A dedicated Web Developer, passionate about continuous learning and innovation.
+  A dedicated Web Developer passionate about continuous learning and innovation.
 
 <hr />
 
