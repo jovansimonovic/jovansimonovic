@@ -26,7 +26,7 @@
 
 <hr />
 
-<h3>🧰 Languages, Technologies and Tools</h3>
+<h3>🧰 Languages, Technologies And Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
