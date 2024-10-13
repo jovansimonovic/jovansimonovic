@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
 </div>
 
-<h3>🔭 Technologies I'm Planning to Explore</h3>
+<h3>🔭 Technologies I'm Planning To Explore</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
